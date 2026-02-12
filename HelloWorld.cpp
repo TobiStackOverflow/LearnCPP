@@ -6,9 +6,11 @@
 */
 
 #include <iostream>
-using namespace std;
+using namespace std;    // use all names from the std namespace without prefix.
 
 int main() {
-    cout << "Hello World!";
+    
+    cout << "Hello World!" << endl;
     return 0;
+    
 }   
